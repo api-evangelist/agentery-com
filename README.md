@@ -66,7 +66,7 @@
 
 Agentery delivers daily pricing intelligence for AI agents, MCP servers, APIs and platforms. It aggregates market data, provides index charts, sector summaries, and price comparisons, offering free access without account or API key. Users can explore pricing trends, research agents, and connect via a public MCP endpoint.
 
-**Areas:** AI · Pricing · Data · Analytics · AgentEconomy
+**Areas:** Artificial Intelligence · Pricing · Data · Analytics · Agent Economy
 
 ## Agentery on APIs.io
 
@@ -80,32 +80,38 @@ Everything profiled for Agentery is published on APIs.io rather than in this rep
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentery-com-mcp.yml](https://apis.io/servers/agentery-com/agentery-com-mcp-yml/)
+
 #### Security (4)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentery Com Authentication](https://apis.io/security/agentery-com/agentery-com-authentication/)
-- [Agentery Com Domain Security](https://apis.io/security/agentery-com/agentery-com-domain-security/)
-- [Agentery Com Trust Center](https://apis.io/security/agentery-com/agentery-com-trust-center/)
-- [Agentery Com Vulnerability Disclosure](https://apis.io/security/agentery-com/agentery-com-vulnerability-disclosure/)
+- [Agentery Authentication](https://apis.io/security/agentery-com/agentery-com-authentication/)
+- [Agentery Domain Security](https://apis.io/security/agentery-com/agentery-com-domain-security/)
+- [Agentery Trust Center](https://apis.io/security/agentery-com/agentery-com-trust-center/)
+- [Agentery Vulnerability Disclosure](https://apis.io/security/agentery-com/agentery-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentery Com Scopes](https://apis.io/scopes/agentery-com/agentery-com-scopes/)
+- [Agentery Scopes](https://apis.io/scopes/agentery-com/agentery-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentery Com Plans Pricing](https://apis.io/plans/agentery-com/agentery-com-plans-pricing/)
+- [Agentery Plans Pricing](https://apis.io/plans/agentery-com/agentery-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentery Com Rate Limits](https://apis.io/rate-limits/agentery-com/agentery-com-rate-limits/)
+- [Agentery Rate Limits](https://apis.io/rate-limits/agentery-com/agentery-com-rate-limits/)
 
 ## Where to find this API
 
@@ -126,18 +132,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 31.7** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 33.1** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
+| Discoverability | 83.3 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 31.6 |
+| Contract governance | 4.5 |
+| Operational transparency | 28.6 |
 | Developer ergonomics | 42.1 |
-| Access clarity | 36.8 |
+| Access clarity | 44.7 |
 
-**Agent readiness 14.6** — agent-aware
+**Agent readiness 17.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -152,7 +158,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | unknown |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
@@ -163,6 +169,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 36.4** — Horizontal (data, software, accessibility, platform)
 
